@@ -1,0 +1,3 @@
+﻿  carros.c
+C:\Users\aluno\Documents\Gilherme\carro\carros.c(10,10): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  carro.vcxproj -> C:\Users\aluno\Documents\Gilherme\carro\x64\Debug\carro.exe
