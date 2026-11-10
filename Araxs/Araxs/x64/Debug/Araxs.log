@@ -1,0 +1,10 @@
+﻿  Lappers.c
+C:\Users\Aluno\Downloads\Araxs\Araxs\Lappers.c(19,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      C:\Users\Aluno\Downloads\Araxs\Araxs\Lappers.c(19,12):
+      espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+      C:\Users\Aluno\Downloads\Araxs\Araxs\Lappers.c(19,12):
+      o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+      C:\Users\Aluno\Downloads\Araxs\Araxs\Lappers.c(19,12):
+      esse argumento é usado como um tamanho do buffer
+  
+  Araxs.vcxproj -> C:\Users\Aluno\Downloads\Araxs\x64\Debug\Araxs.exe
