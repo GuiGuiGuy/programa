@@ -3,7 +3,7 @@ int main(void)
 {
 	char p;
 	int p1, p2;
-	printf("Queres Somar(S),Subtrair(Su),Multiplicar(M) ou Dividir(D): ");
+	printf("Queres Somar(S),Subtrair(Z),Multiplicar(M) ou Dividir(D): ");
 	scanf_s("%c", &p);
 	printf("Um Numero: ");
 	scanf_s("%d", &p1);
@@ -13,7 +13,7 @@ int main(void)
 	{
 		printf("%d+%d=%d", p1, p2, p1 + p2);
 	}
-	if (p == 'SU')
+	if (p == 'Z')
 	{
 		printf("%d-%d=%d", p1, p2, p1 - p2);
 	}
@@ -25,4 +25,5 @@ int main(void)
 	{
 		printf("%d:%d=%d", p1, p2, p1 / p2);
 	}
+	return 0 
 }
