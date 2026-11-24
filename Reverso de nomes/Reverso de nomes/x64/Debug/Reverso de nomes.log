@@ -1,0 +1,3 @@
+﻿  Mones.c
+C:\Users\Aluno\Downloads\Reverso de nomes\Mones.c(5,8): warning C4101: 'j': variável local não referenciada
+  Reverso de nomes.vcxproj -> C:\Users\Aluno\Downloads\Reverso de nomes\x64\Debug\Reverso de nomes.exe
