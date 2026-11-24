@@ -1,0 +1,3 @@
+﻿  LOTARIA.c
+C:\Users\Aluno\Downloads\TOTOLOTO\LOTARIA.c(6,8): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  TOTOLOTO.vcxproj -> C:\Users\Aluno\Downloads\TOTOLOTO\x64\Debug\TOTOLOTO.exe
